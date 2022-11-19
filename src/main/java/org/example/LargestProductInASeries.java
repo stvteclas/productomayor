@@ -1,5 +1,9 @@
 package org.example;
 
+/**
+ * Ejercicio numero dos entrevista HUNTEAM
+ */
+
 public class LargestProductInASeries {
     public static void main(String[] args) {
         String serie = "73167176531330624919225119674426574742355349194934" +
